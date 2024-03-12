@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BookApiSearch</string>
+    <string name="search_books_by_title">Search</string>
+</resources>
